@@ -1,0 +1,25 @@
+#addnotes{
+    width: 47px;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+}
+#addnotes:hover{
+    width: 160px;
+
+}
+#deletenotes:hover{
+    color: red;
+}
+#editSave:hover{
+    color: green;
+}
+#addnotesClose{
+    color: blue;
+    background-color: white;
+    border-radius: 50%;
+    transition: all 0.3s ease-in-out;
+}
+#addnotesClose:hover{
+    color: white;
+    background-color: blue;
+}
