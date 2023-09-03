@@ -8,9 +8,7 @@ Notes application using HTML,CSS and JavaScript
 we can add, delete and edit notes , notes save in localstorage
 
 ## Screenshots
-
-![Screenshot_20230820_164846](https://github.com/AbuZaid55/Image_Gallery/assets/115403447/9822cca6-9479-466c-9fc0-46fe790ddf60)
- ![Screenshot_20230820_164903](https://github.com/AbuZaid55/Image_Gallery/assets/115403447/81f5e844-52f5-49c5-bcfa-3bf96d99d437)
+![portfolio18](https://github.com/AbuZaid55/My_Notes/assets/115403447/41baa4a5-472b-4be9-a35c-5ad737d2b3f5)
 
 
 ## 🔗 Links
